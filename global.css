@@ -4,13 +4,20 @@ th, td      {
                font-size:large;
                // border: 1px solid black;
             }     /* Don't center table cells  */
-#converted  { color: red; font-weight: bold; font-size:large;          }     /* Calculated values in bold */
+#converted  {
+              color: red;
+              font-weight: bold;
+              font-size:large;
+            }     /* Calculated values in bold */
+
 input       {
               text-align: right;       /* Align input to the right  */
               border: none;
               border-radius: 20px 20px 20px 20px;
               padding: 5px  5px;
-              font-size:large;       }
+              width: 50%;
+              font-size:large;
+            }
 body
 {
  background-color:#b0c4de;  /* blue */
@@ -20,7 +27,6 @@ body
 
 h1 {
     font-weight: normal;
-    font-family: "Brush Script MT", cursive;
     background: #3C5681;
     padding: 5px 15px;
     color: white;

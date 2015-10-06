@@ -4,6 +4,10 @@
   "description": "Práctica Conversor de Temperatura",
   "main": "temperature.js",
   "scripts": {
+    "test": "tests"
+  },
+
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 

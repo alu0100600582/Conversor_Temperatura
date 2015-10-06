@@ -13,6 +13,8 @@ input       {
               font-size:large;       }
 body
 {
+ background-image: url(images/fondo.jpg);
+ 
  background-color:#b0c4de;  /* blue */
  font-size:large;
  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;

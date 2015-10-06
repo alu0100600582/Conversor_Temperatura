@@ -20,16 +20,16 @@ input       {
             }
 body
 {
- background-color:#b0c4de;  /* blue */
+ background-color:#BCF5A9;
  font-size:large;
  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
 }
 
 h1 {
     font-weight: normal;
-    background: #3C5681;
+    text-align: center;
+    background: #0B610B;
     padding: 5px 15px;
     color: white;
-    display:inline-block;
     border-radius: 10px 10px 10px 10px;
 }
